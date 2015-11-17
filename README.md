@@ -5,11 +5,11 @@ Will become a sub heading
 --------------
 
 
-| Tables        | 3          | 2  |
+| Tables        | Hallo           | Huhu  |
 | ------------- |:-------------:| -----:|
-| a     | a| a |
-| a    | a      |   a|
-| a| a     |    a |
+| a | a| a |
+| a | a  |   a|
+| a| a | a |
 
 
 *This will be Italic*
